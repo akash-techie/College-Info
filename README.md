@@ -1,1 +1,1 @@
-# CollegeInfo
+# College-Info
