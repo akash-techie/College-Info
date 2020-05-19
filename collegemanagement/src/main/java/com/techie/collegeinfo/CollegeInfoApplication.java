@@ -1,13 +1,13 @@
-package com.techie.collegemanagement;
+package com.techie.collegeinfo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CollegeManagementApplication {
+public class CollegeInfoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CollegeManagementApplication.class, args);
+		SpringApplication.run(CollegeInfoApplication.class, args);
 	}
 
 }

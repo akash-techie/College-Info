@@ -1,10 +1,10 @@
-package com.techie.collegemanagement;
+package com.techie.collegeinfo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CollegeManagementApplicationTests {
+class CollegeInfoApplicationTests {
 
 	@Test
 	void contextLoads() {
