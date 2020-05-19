@@ -1,1 +1,1 @@
-# CollegeManagement
+# CollegeInfo
